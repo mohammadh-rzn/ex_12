@@ -1,0 +1,28 @@
+
+html,
+body {
+    background-image: url('573224.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: BMorvarid, sans-serif;
+}
+
+.container {
+    align-content: center;
+    height: 100%;
+    position: fixed;
+    top: 50% ;
+    left: 50% ;
+    margin: -200px 0 0 -250px;
+}
+
+.card {
+    height: 400px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    padding: 30px;
+    border-radius: 30px;
+}
